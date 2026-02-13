@@ -1,4 +1,3 @@
-# LL(1) parser code in python
 
 def removeLeftRecursion(rulesDiction):
     # for rule: A->Aa|b
